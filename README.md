@@ -17,16 +17,16 @@ sTable3: Summary of Mendelian Randomization Results and Sensitivity Analysis (In
 sTable4: Summary of Mendelian Randomization Results and Sensitivity Analysis (RSA)
 These tables provide deeper insight into the statistical analysis and lipidomic profiles, which could not be included in the main manuscript due to space constraints.
 
-Supplementary_Figures_Infertility_Lipidomes.zip
-This folder contains supplementary figures related to the lipidomics analysis of Infertility.
+Supplementary_Figures_PCOS_Lipidomes.zip
+This folder contains supplementary figures related to the lipidomics analysis of Polycystic Ovarian Syndrome (PCOS).
 Includes visualizations such as:
 Forest Plots
 Funnel Plots
 Leave-One-Out (LOO) Plots
 Scatter Plots
 
-Supplementary_Figures_PCOS_Lipidomes.zip
-This folder contains supplementary figures related to the lipidomics analysis of Polycystic Ovarian Syndrome (PCOS).
+Supplementary_Figures_Infertility_Lipidomes.zip
+This folder contains supplementary figures related to the lipidomics analysis of Infertility.
 Includes visualizations such as:
 Forest Plots
 Funnel Plots
