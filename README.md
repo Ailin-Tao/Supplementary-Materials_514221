@@ -49,7 +49,7 @@ Scatter Plots: Show the relationship between genetic instruments and lipidomic t
 
 How to Access the Files
 Download the .zip files to your local machine.
-Extract the files using any standard decompression tool (e.g., WinRAR, 7-Zip, or built-in tools on macOS/Windows).
+Extract the files using any standard decompression tool.
 Open the extracted files to view the supplementary figures.
 
 Contact Information
