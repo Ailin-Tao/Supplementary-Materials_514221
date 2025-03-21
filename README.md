@@ -3,7 +3,7 @@ Supplementary Materials for “Lipidomics Reveals Common Mechanisms in Polycysti
 This repository contains supplementary figures and data supporting the manuscript titled:
 “Lipidomics Reveals Common Mechanisms in Polycystic Ovarian Syndrome, Recurrent Spontaneous Abortion, and Infertility: A Genetic-Based Analysis”
 
-Due to file size and format restrictions during the initial submission, the supplementary figures were not included in the main submission. This repository provides access to all supplementary figures and related data in compressed (.zip) format, offering a more comprehensive view of the findings presented in the manuscript.
+Due to file size and format restrictions during the submission, the supplementary figures were not included in the main submission. This repository provides access to all supplementary figures and related data in compressed (.zip) format, offering a more comprehensive view of the findings presented in the manuscript.
 
 File Structure
 The repository contains the following files and folders:
